@@ -57,7 +57,7 @@ export default function Slider() {
             </div>
             <div className='slider-text'>
                 <h1>Best employment opportunities</h1>
-                <Button > FIND YOUR CAREER </Button>
+                <Button varient="contained" sx={{ backgroundColor:"#6b6b6b", color:"inherit"}}> FIND YOUR CAREER </Button>
             </div>
         </div>
     )
