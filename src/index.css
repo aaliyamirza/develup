@@ -139,5 +139,17 @@ color: white;
 }
 
 .carousel{
-  display: flex;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.slickk-arrow{
+  color:black;
+}
+.slick-prev {
+  left: 30px ;
+}
+
+.slick-next {
+  right: 30px;
 }
