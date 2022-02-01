@@ -15,9 +15,9 @@ function App() {
       <Cards />
       <Dummy />
       <Slider />
-     <Carousel/>
+     <CenterMode/>
       <Slider />
-      <Carousel/>
+      <CenterMode/>
       <Featured />
       <Footer />
     </div>
